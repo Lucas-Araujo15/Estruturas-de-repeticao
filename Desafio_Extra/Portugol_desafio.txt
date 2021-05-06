@@ -1,0 +1,20 @@
+programa {
+	funcao inicio() {
+		
+		inteiro numeroanterior = 0
+		inteiro numeroatual = 1
+		inteiro fibonacci
+		
+		escreva(numeroanterior + "\n")
+		escreva(numeroatual+ "\n")
+		
+		faca{
+
+		    fibonacci = numeroatual + numeroanterior
+		    escreva(fibonacci + "\n")
+		    numeroanterior = numeroatual
+		    numeroatual = fibonacci
+
+		}enquanto(fibonacci <= 500)
+	}
+}

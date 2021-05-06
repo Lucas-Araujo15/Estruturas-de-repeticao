@@ -1,0 +1,16 @@
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\obj\Debug\net5.0\Desafio_Extra.csprojAssemblyReference.cache
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\obj\Debug\net5.0\Desafio_Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\obj\Debug\net5.0\Desafio_Extra.AssemblyInfoInputs.cache
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\obj\Debug\net5.0\Desafio_Extra.AssemblyInfo.cs
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\obj\Debug\net5.0\Desafio_Extra.csproj.CoreCompileInputs.cache
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\bin\Debug\net5.0\Desafio_Extra.exe
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\bin\Debug\net5.0\Desafio_Extra.deps.json
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\bin\Debug\net5.0\Desafio_Extra.runtimeconfig.json
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\bin\Debug\net5.0\Desafio_Extra.runtimeconfig.dev.json
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\bin\Debug\net5.0\Desafio_Extra.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\bin\Debug\net5.0\ref\Desafio_Extra.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\bin\Debug\net5.0\Desafio_Extra.pdb
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\obj\Debug\net5.0\Desafio_Extra.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\obj\Debug\net5.0\ref\Desafio_Extra.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\obj\Debug\net5.0\Desafio_Extra.pdb
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Desafio_Extra\obj\Debug\net5.0\Desafio_Extra.genruntimeconfig.cache
