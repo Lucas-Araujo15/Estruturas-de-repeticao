@@ -1,0 +1,60 @@
+programa {
+    
+inclua biblioteca Texto --> t
+    
+	funcao inicio() {
+		cadeia usuario
+		cadeia senha
+		caracter confirmacao
+		logico tentativa = falso
+		logico repeticao = verdadeiro
+		
+		faca{
+		    escreva("Digite seu nome de usuário: ")
+		    leia(usuario)
+		    
+		    escreva("Digite sua senha: ")
+		    leia(senha)
+		    
+		    se(usuario == senha){
+		        escreva("Sua senha é semelhante ao seu nome de usuário.")
+		        escreva("Gostaria de tentar novamente? (s/n)")
+		        leia(confirmacao)
+		        
+		        se(confirmacao == 's'){
+		            tentativa = verdadeiro
+		        }senao{
+		            escreva("Agradecemos sua consulta!")
+		            tentativa = falso
+		        }
+		    }senao se (t.numero_caracteres(senha) > 10){
+		        
+		        faca{
+		            escreva("Sua senha extrapola o limite suportado.")
+	                escreva("Gostaria de tentar novamente? (s/n)")
+	                leia(confirmacao)
+	                
+	                se(confirmacao == 's'){
+	                    escreva("Digite sua senha: ")
+		                leia(senha)
+		                se(t.numero_caracteres(senha) <= 10){
+		                  repeticao = falso 
+		                  tentativa = falso
+		                  escreva("Agradecemos seu cadastro. Aguarde por mais informações!")
+		                }senao{
+		                    repeticao = verdadeiro
+		                }
+		            }senao{
+		            escreva("Agradecemos sua consulta!")
+		            tentativa = falso
+		            repeticao = falso
+		        }
+		        }enquanto(repeticao == verdadeiro)
+		        
+		    }senao{
+		        escreva("Agradecemos seu cadastro. Aguarde por mais informações!")
+		        tentativa = falso
+		    }
+		}enquanto(tentativa == verdadeiro)
+	}
+}

@@ -1,0 +1,16 @@
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\bin\Debug\net5.0\Exercício_1.exe
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\bin\Debug\net5.0\Exercício_1.deps.json
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\bin\Debug\net5.0\Exercício_1.runtimeconfig.json
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\bin\Debug\net5.0\Exercício_1.runtimeconfig.dev.json
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\bin\Debug\net5.0\Exercício_1.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\bin\Debug\net5.0\ref\Exercício_1.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\bin\Debug\net5.0\Exercício_1.pdb
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\obj\Debug\net5.0\Exercício_1.csprojAssemblyReference.cache
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\obj\Debug\net5.0\Exercício_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\obj\Debug\net5.0\Exercício_1.AssemblyInfoInputs.cache
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\obj\Debug\net5.0\Exercício_1.AssemblyInfo.cs
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\obj\Debug\net5.0\Exercício_1.csproj.CoreCompileInputs.cache
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\obj\Debug\net5.0\Exercício_1.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\obj\Debug\net5.0\ref\Exercício_1.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\obj\Debug\net5.0\Exercício_1.pdb
+C:\Users\Luisa Oliveira\Documents\LUCAS\Lista de exercícios - Estruturas de repetição\Exercício_1\obj\Debug\net5.0\Exercício_1.genruntimeconfig.cache

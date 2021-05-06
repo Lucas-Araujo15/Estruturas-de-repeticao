@@ -1,0 +1,30 @@
+programa {
+	funcao inicio() {
+		logico notas
+		inteiro resposta
+		caracter confirmacao 
+		
+		faca{
+		    escreva("Digite suas notas de 0 a 10: ")
+		    leia(resposta)
+		    
+		    se(resposta > 10 ou resposta < 0) {
+		        escreva("O valor indicado é inválido.")
+		        escreva("Gostaria de continuar?(s/n) ")
+		        leia(confirmacao)
+		        
+		        se(confirmacao == 's'){
+		            notas = verdadeiro
+		        }senao{
+		            escreva("Agradecemos sua consulta!")
+		            notas = falso
+		        }
+		        
+		    }senao {
+		        escreva("Suas notas são válidas. Logo mais serão avaliadas pela instituição escolar")
+		        notas = falso
+		    }
+		    
+		}enquanto(notas == verdadeiro)
+	}
+}

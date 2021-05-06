@@ -1,0 +1,47 @@
+programa {
+	funcao inicio() {
+		cadeia nome
+		inteiro idade
+		real salario
+		inteiro opcao
+		cadeia estado [4]
+		estado [0] = "Solteiro"
+		estado [1] = "Casado"
+		estado [2] = "Viúvo"
+		estado [3] = "Divorciado"
+		
+		faca {
+		    escreva("Insira o seu nome completo: ")
+		    leia(nome)
+		    se(nome == ""){
+		        escreva("Favor, preencher os locais obrigatórios\n")
+		    }
+		}enquanto(nome == "")
+		
+		faca{
+		    escreva("Insira a sua idade: ")
+		    leia(idade)
+		    se(idade < 0 ou idade > 150){
+		        escreva("Favor, inserir a idade corretamente\n")
+		    }
+		}enquanto (idade < 0 ou idade > 150)
+		
+		faca{
+		    escreva("Insira seu salário: ")
+		    leia(salario)
+		    se (salario < 0){
+		        escreva("Favor, inserir um salário a partir de zero\n")
+		    }
+		}enquanto(salario < 0)
+		
+		faca{
+		    escreva("Qual seu estado civil?\n (0) Solteiro\t(1) Casado\n(2) Viúvo\t(3) Divorciado\n ")
+		    leia(opcao)
+		    
+		    se (opcao > 3 ou opcao < 0){
+		        escreva("Favor, escolher uma das opções apresentadas\n")
+		    }
+		}enquanto(opcao > 3 ou opcao < 0)
+		escreva("Registro finalizado! Confira as informações abaixo:\n Nome: "+ nome +"\nIdade: "+ idade +"\nSalário: " +salario+ "\nEstado Civil: " + estado[opcao])
+	}
+}
